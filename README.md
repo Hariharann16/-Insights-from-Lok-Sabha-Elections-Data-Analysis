@@ -1,0 +1,2 @@
+# -Insights-from-Lok-Sabha-Elections-Data-Analysis
+Developed a comprehensive analysis and created Dashboard of Lok Sabha elections data for AtliQ Media's telecast show, focusing on unbiased insights from the 2014 and 2019 elections. Conducted in-depth exploration of voter turnout percentages and less explored themes. Led the data analysis and presentation of findings to Chief Editor Bruce Haryali.
